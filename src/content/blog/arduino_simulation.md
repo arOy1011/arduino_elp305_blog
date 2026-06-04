@@ -5,12 +5,12 @@ title: "Digital Electronics Lab Report"
 description: "Arduino and Embedded Systems Laboratory Portfolio"
 publishDate: 2026-06-04
 ---
-> Arduino & Embedded Systems Laboratory Portfolio
+> Arduino & Embedded Systems Laboratory
 >
 > Experiments covering GPIO, displays, sensors, waveform generation, RTC systems, automation, and embedded software development.
 
 
-# Building Embedded Systems with Arduino: A Digital Electronics 
+# Building Embedded Systems with Arduino: A Digital Electronics
 
 This article documents a series of Arduino-based embedded systems projects completed as part of a Digital Electronics laboratory course. The projects progress from basic GPIO control and display interfacing to automation systems, waveform generation, and real-time monitoring using sensors, communication buses, and peripheral devices.
 
