@@ -2,7 +2,7 @@
 ---
 layout: ./BlogLayout.astro
 title: "Digital Electronics Lab Report"
-description: "Arduino and Embedded Systems Laboratory Portfolio"
+description: "Arduino projects including displays, sensors, RTC systems, automation, waveform generation and embedded software development."
 publishDate: 2026-06-04
 ---
 > Embedded Systems Laboratory
