@@ -1,0 +1,8 @@
+{
+    cd "/Users/arnabroy/Desktop/prog and comp/Website/astroblog"
+    nohup ./auto-push.sh > auto-push.log 2>&1 &
+} //for turn on auto-push
+{
+    pkill -f auto-push.sh
+} //for killing it
+
