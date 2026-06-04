@@ -22,3 +22,11 @@ To https://github.com/arOy1011/arduino_elp305_blog.git
 Pushed successfully.
 /Users/arnabroy/Desktop/prog and comp/Website/astroblog/src/content/blog/paste.md
 /Users/arnabroy/Desktop/prog and comp/Website/astroblog/src/content/blog/arduino_simulation.md
+[main 5fec655] Auto update 2026-06-04 23:52:53
+ 2 files changed, 7 insertions(+)
+ rename src/content/blog/{paste.md => arduino_simulation.md} (100%)
+To https://github.com/arOy1011/arduino_elp305_blog.git
+   84f7e04..5fec655  main -> main
+Pushed successfully.
+/Users/arnabroy/Desktop/prog and comp/Website/astroblog/src/pages/index.astro
+/Users/arnabroy/Desktop/prog and comp/Website/astroblog/src/pages/index.astro
