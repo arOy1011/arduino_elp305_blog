@@ -5,7 +5,7 @@ title: "Digital Electronics Lab Report"
 description: "Arduino and Embedded Systems Laboratory Portfolio"
 publishDate: 2026-06-04
 ---
-> Arduino & Embedded Systems Laboratory
+> Embedded Systems Laboratory
 >
 > Experiments covering GPIO, displays, sensors, waveform generation, RTC systems, automation, and embedded software development.
 
