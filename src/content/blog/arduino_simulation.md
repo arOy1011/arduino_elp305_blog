@@ -10,7 +10,7 @@ publishDate: 2026-06-04
 > Experiments covering GPIO, displays, sensors, waveform generation, RTC systems, automation, and embedded software development.
 
 
-# Building Embedded Systems with Arduino: A Digital Electronics Portfolio
+# Building Embedded Systems with Arduino: A Digital Electronics 
 
 This article documents a series of Arduino-based embedded systems projects completed as part of a Digital Electronics laboratory course. The projects progress from basic GPIO control and display interfacing to automation systems, waveform generation, and real-time monitoring using sensors, communication buses, and peripheral devices.
 
