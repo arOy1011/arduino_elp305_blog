@@ -1,2 +1,35 @@
 Watching source files...
 /Users/arnabroy/Desktop/prog and comp/Website/astroblog/auto-push.log
+[main dbb43c1] Auto update 2026-06-05 14:52:23
+ 27 files changed, 2 insertions(+), 77 deletions(-)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/7-segment-display.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/Cooling.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/Heating.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/PWM.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/Real Time Clock.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/Sine.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/Triangle.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/cal.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/calculated.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/cold.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/extreme.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/history.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/hot.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/led_blink.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/led_matrix_T.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/lock.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/normal.png (100%)
+ rename src/content/blog/{ => arduino-simulation-elp305}/img/prefix_expression.png (100%)
+ rename src/content/blog/{arduino_simulation.md => arduino-simulation-elp305/index.md} (99%)
+ rename src/{content/blog => layouts}/BlogLayout.astro (97%)
+ create mode 100644 src/pages/about.astro
+ create mode 100644 src/pages/blog/[slug].astro
+ create mode 100644 src/pages/blog/category/[category].astro
+ create mode 100644 src/pages/blog/index.astro
+ create mode 100644 src/pages/projects.astro
+ rename src/{content/blog => styles}/blog.css (100%)
+To https://github.com/arOy1011/arduino_elp305_blog.git
+   7fc17ea..dbb43c1  main -> main
+Pushed successfully.
+/Users/arnabroy/Desktop/prog and comp/Website/astroblog/src/layouts/BlogLayout.astro
+/Users/arnabroy/Desktop/prog and comp/Website/astroblog/src/layouts/BlogLayout.astro
