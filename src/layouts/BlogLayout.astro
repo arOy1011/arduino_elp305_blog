@@ -14,6 +14,30 @@ const { frontmatter } = Astro.props;
     <main class="content">
       <h1>{frontmatter?.title}</h1>
       <slot />
+
+      <hr />
+
+      <section class="github-section">
+        <h2>Project Repository</h2>
+        {
+          frontmatter?.github && (
+            <p>
+              <a href={frontmatter.github} target="_blank">
+                View on GitHub
+              </a>
+            </p>
+          )
+        }
+      </section>
+
+      <hr />
+
+      <section class="author-section">
+        <h2>About the Author</h2>
+        <p>
+          Arnab Roy is an Electronics and Communication Engineering student with interests in embedded systems, Arduino, digital electronics, automation, and software development.
+        </p>
+      </section>
     </main>
   </body>
 </html>
