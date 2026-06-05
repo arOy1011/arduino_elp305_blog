@@ -265,3 +265,9 @@ To https://github.com/arOy1011/arduino_elp305_blog.git
 Pushed successfully.
 /Users/arnabroy/Desktop/prog and comp/Website/astroblog/dist/blog/category
 /Users/arnabroy/Desktop/prog and comp/Website/astroblog/dist/projects
+[main 030b3b0] Auto update 2026-06-05 15:28:56
+ 1 file changed, 7 insertions(+)
+To https://github.com/arOy1011/arduino_elp305_blog.git
+   eea2313..030b3b0  main -> main
+Pushed successfully.
+/Users/arnabroy/Desktop/prog and comp/Website/astroblog/src/pages/blog/category/[category].astro
