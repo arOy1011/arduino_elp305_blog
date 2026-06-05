@@ -13,7 +13,22 @@
   "enableOpenConfigFileCommand": false,
   "configFilePath": "",
   "enableConfigRibbonIcon": false,
-  "contentTypes": [],
+  "contentTypes": [
+    {
+      "id": "content-1780659497902",
+      "name": "Content 1",
+      "folder": "",
+      "linkBasePath": "",
+      "template": "---\ntitle: \"{{title}}\"\ndate: {{date}}\n---\n",
+      "enabled": true,
+      "creationMode": "file",
+      "indexFileName": "",
+      "ignoreSubfolders": false,
+      "enableUnderscorePrefix": false,
+      "useMdxExtension": false,
+      "modifiedDateField": ""
+    }
+  ],
   "migrationCompleted": true,
   "helpButtonReplacement": {
     "enabled": false,
