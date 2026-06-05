@@ -461,3 +461,13 @@ Pushed successfully.
 /Users/arnabroy/Desktop/prog and comp/Website/astroblog/.obsidian/plugins/astro-composer/main.js
 /Users/arnabroy/Desktop/prog and comp/Website/astroblog/.obsidian/plugins/astro-composer/styles.css
 /Users/arnabroy/Desktop/prog and comp/Website/astroblog/.obsidian/plugins/astro-composer
+[main 044e02b] Auto update 2026-06-05 17:09:15
+ 6 files changed, 11 insertions(+), 5466 deletions(-)
+ delete mode 100644 .obsidian/plugins/astro-composer/data.json
+ delete mode 100644 .obsidian/plugins/astro-composer/main.js
+ delete mode 100644 .obsidian/plugins/astro-composer/manifest.json
+ delete mode 100644 .obsidian/plugins/astro-composer/styles.css
+To https://github.com/arOy1011/arduino_elp305_blog.git
+   1676fb9..044e02b  main -> main
+Pushed successfully.
+/Users/arnabroy/Desktop/prog and comp/Website/astroblog/.obsidian/plugins
