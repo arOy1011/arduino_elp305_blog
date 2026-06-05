@@ -6,6 +6,6 @@
   "V1-Willemstad-Root@@ssopt-hide-tooltips": false,
   "V1-Willemstad-Root@@shape-roundish": 5,
   "V1-Willemstad-Editor@@ssopt-codeblock-language": "ssopt-codeblock-lang-old",
-  "pluglets-iem-settings@@ssopt-focused-mode": true,
+  "pluglets-iem-settings@@ssopt-focused-mode": false,
   "pluglets-iem-settings@@ssopt-super-focused-mode": false
 }
