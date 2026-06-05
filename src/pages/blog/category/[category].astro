@@ -2,4 +2,20 @@
 export async function getStaticPaths() {
   return [];
 }
+------
+export async function getStaticPaths() {
+  return [
+    {
+      params: { category: "all" },
+    },
+  ];
+}
+
+const { category } = Astro.params;
 ---
+
+<html>
+  <body>
+    <h1>Category: {category}</h1>
+  </body>
+</html>
