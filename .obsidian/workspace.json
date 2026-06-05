@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7efc344864231d",
+        "id": "487e4349ac4ade75",
         "type": "tabs",
         "children": [
           {
-            "id": "9adb794a5ddad9a6",
+            "id": "64302eaaeae09337",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +17,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -176,6 +177,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "9adb794a5ddad9a6",
+  "active": "64302eaaeae09337",
   "lastOpenFiles": []
 }
