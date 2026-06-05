@@ -2,6 +2,7 @@
 ---
 layout: ../../../layouts/BlogLayout.astro
 title: "Arduino Simulation ELP305"
+github: "https://github.com/arOy1011/arduino_elp305_blog"
 description: "Arduino projects including displays, sensors, RTC systems, automation, waveform generation and embedded software development."
 publishDate: 2026-06-04
 ---
