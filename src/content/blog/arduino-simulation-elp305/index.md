@@ -2,7 +2,7 @@
 ---
 layout: ../../../layouts/BlogLayout.astro
 title: "Arduino Simulation ELP305"
-github: "https://github.com/arOy1011/arduino_elp305_blog"
+github: "https://github.com/arOy1011/2026_GIPDEI_ARNAB_ROY/tree/main/Experiments"
 description: "Arduino projects including displays, sensors, RTC systems, automation, waveform generation and embedded software development."
 publishDate: 2026-06-04
 ---
@@ -2488,3 +2488,6 @@ The experiment verified practical implementation of:
 - and sensor-based monitoring systems.
 
 The final system demonstrated modular embedded system design and real-world integration of multiple peripherals into a unified intelligent monitoring platform.
+
+---
+

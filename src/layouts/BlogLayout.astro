@@ -12,32 +12,21 @@ const { frontmatter } = Astro.props;
 
   <body>
     <main class="content">
+      <nav class="blog-nav">
+        <a href="/blog">Other Blogs</a>
+        {frontmatter?.github && (
+          <a href={frontmatter.github} target="_blank" rel="noopener noreferrer">
+            GitHub
+          </a>
+        )}
+        <a href="https://your-portfolio-domain.com" target="_blank" rel="noopener noreferrer">
+          About Author
+        </a>
+      </nav>
+
       <h1>{frontmatter?.title}</h1>
       <slot />
 
-      <hr />
-
-      <section class="github-section">
-        <h2>Project Repository</h2>
-        {
-          frontmatter?.github && (
-            <p>
-              <a href={frontmatter.github} target="_blank">
-                View on GitHub
-              </a>
-            </p>
-          )
-        }
-      </section>
-
-      <hr />
-
-      <section class="author-section">
-        <h2>About the Author</h2>
-        <p>
-          Arnab Roy is an Electronics and Communication Engineering student with interests in embedded systems, Arduino, digital electronics, automation, and software development.
-        </p>
-      </section>
     </main>
   </body>
 </html>
