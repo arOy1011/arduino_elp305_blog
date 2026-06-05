@@ -1,7 +1,7 @@
 
 ---
 layout: ../../../layouts/BlogLayout.astro
-title: "Digital Electronics Lab Report"
+title: "Arduino Simulation ELP305"
 description: "Arduino projects including displays, sensors, RTC systems, automation, waveform generation and embedded software development."
 publishDate: 2026-06-04
 ---
@@ -1614,7 +1614,7 @@ The project integrates concepts from:
 - and user-interface engineering
 
 into a compact and efficient hardware implementation.
-Looking at your screenshots — sine and triangle look great, PWM just needs fixing. Here's the Exp 3 section to add directly to your report:
+
 
 # Experiment 3 — Multi-Waveform Generator
 
