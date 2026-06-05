@@ -11,12 +11,14 @@
             "id": "ae05496f2a4216ca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "autopush_on:off.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "autopush_on:off"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autopush_on:off.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for autopush_on:off"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -112,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "autopush_on:off.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from autopush_on:off"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "autopush_on:off.png",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of autopush_on:off"
+              "title": "Outline of README"
             }
           }
         ]
@@ -184,5 +186,7 @@
     }
   },
   "active": "ae05496f2a4216ca",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "autopush_on:off.png"
+  ]
 }
