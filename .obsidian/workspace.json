@@ -11,10 +11,12 @@
             "id": "ae05496f2a4216ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "autopush_on:off.png"
+              },
+              "icon": "lucide-image",
+              "title": "autopush_on:off"
             }
           }
         ],
@@ -91,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "autopush_on:off.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for autopush_on:off"
             }
           },
           {
@@ -109,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "autopush_on:off.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from autopush_on:off"
             }
           },
           {
@@ -151,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "autopush_on:off.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of autopush_on:off"
             }
           }
         ]
@@ -174,7 +179,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "ae05496f2a4216ca",
