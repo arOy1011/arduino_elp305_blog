@@ -4,5 +4,6 @@
   "V1-Willemstad-Root@@no-blur": false,
   "V1-Willemstad-Root@@yes-shadows": true,
   "V1-Willemstad-Root@@ssopt-hide-tooltips": false,
-  "V1-Willemstad-Root@@shape-roundish": 5
+  "V1-Willemstad-Root@@shape-roundish": 5,
+  "V1-Willemstad-Editor@@ssopt-codeblock-language": "ssopt-codeblock-lang-old"
 }
